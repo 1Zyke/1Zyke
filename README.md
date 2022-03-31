@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @1Zyke
-- 👀 I’m interested in Deskop Applicactions & Web Applications
-- 🌱 I’m currently learning ASP.NET
+- 👀 I am interested in technology, knowledge and the world of coding.
 - 📫 How to reach me: loronf19@gmail.com
 - I like the FPS Video Games (Valorant & Csgo)
 
